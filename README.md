@@ -2,7 +2,7 @@
 
 *Project for the Advanced CSS & SASS Udemy course by Jonas Schmedtmann*
 
-URL: http://trillo.ahmedtests.dx.am/
+URL: http://ahmed-trillo.surge.sh/
 
 ## What I've Learned
 
